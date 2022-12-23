@@ -43,3 +43,9 @@ Small.args = {
   size: 'small',
   label: 'Button',
 };
+
+export const XLarge = Template.bind({});
+XLarge.args = {
+  size: 'xlarge',
+  label: 'Button',
+};
